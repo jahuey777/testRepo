@@ -1,6 +1,6 @@
 public class Test{
 
-	private String Name; 
+	private int Name; 
     private String danny;
     
 }

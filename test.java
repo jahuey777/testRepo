@@ -1,7 +1,7 @@
-public class Test{
+public class Testing{
 
 	private String Name; 
     private String danny;
-    private String moist;
+    private String most;
     
 }
